@@ -4,4 +4,4 @@ This project is a getting starting with programming. It is build using Python la
 
 ##Installation
 
-Download the folder and run the file entertainment_center.py
+Launch directly the file fresh_tomatoes.html
