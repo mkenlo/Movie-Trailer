@@ -16,7 +16,8 @@ class Movie():
 
 
     def show_trailer(self):
-        """this function is called upon a movie object and launch the youtube trailer of the object
+        """this function is called upon a movie object and launch the youtube trailer
+        of the object
         Input: none
         Output: a web page"""
         webbrowser.open(self.trailer_youtube_url)
